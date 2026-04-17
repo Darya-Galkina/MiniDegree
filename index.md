@@ -14,7 +14,7 @@
 |     | Количественный анализ текста. Морфо-синтаксическая разметка. Визуализация| [Тетрадка](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_1) || [ДЗ1](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw1) - регулярные выражения
 |11.04| Культуромика на "малых" данных. Практика|[ЛР1](https://github.com/Darya-Galkina/MiniDegree/blob/main/seminar_2_culturomics/2_seminar.ipynb)|[Бонч-Осмоловская А. А. Культуромика в национальном корпусе русского языка, к постановке задачи: три века русских дорог](https://trudy.ruslang.ru/ru/archive/2015-3/605-640)| [ДЗ2](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw2)|
 |18.04|Культуромика: НКРЯ API|[Тетрадка](https://github.com/Darya-Galkina/MiniDegree/blob/main/seminar_3/3_seminar_culturomics.ipynb)|[Бонч-Осмоловская А.А. Имена времени: эпитеты десятилетий в Национальном корпусе русского языка как проекция культурной памяти](https://steps.ranepa.ru/jour/issue/viewIssue/48/28) -- не будем подробно обсуждать, но коротко перескажем| |
-|25.04|Стилометрия|[Тетрадка]()|[Алиева О. В. "Pseudoplatonica: блеск и нищета стилометрии"](https://philosophy.hse.ru/article/view/22609)| |
+|25.04|Стилометрия|[Тетрадка и данные](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_4_stylometry)|[Алиева О. В. "Pseudoplatonica: блеск и нищета стилометрии"](https://philosophy.hse.ru/article/view/22609)| |
 |     |майские праздники: работа над проектами| | |
 |16.05|Ридинг-семинар||||
 |23.05|TBU| | |

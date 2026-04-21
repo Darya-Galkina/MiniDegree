@@ -73,8 +73,9 @@
 
 ### Грузди — это хорошо, но лучше радозди (полезно-развлекательное)
 - [Журнал "Системный Блокъ"](https://sysblok.ru)
-- [Семинар "Цифровая среда"](https://dhri.ru/projects/sreda/)
-- [Телеграм-канал DH CLOUD (DH-центр СФУ)](https://t.me/dhcloud)
+- [Семинар "Цифровая среда"](https://dhri.ru/projects/sreda/) - есть записи
+- [Телеграм-канал DH-центра СФУ](https://t.me/DHRIsfu)
+- [Телеграм-канал DH CLOUD](https://t.me/dhcloud)
 - [Телеграм-канал Б.В. Орехова] (https://t.me/schonenrede)
 - [(Цифровой) философ О.В. Алиева об античности на языке R - телеграм-канал](https://t.me/rantiquity)
 - [Нескучно о работе с данными](https://datasittersclub.github.io/tldr/books/tldr2/)

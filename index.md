@@ -47,7 +47,7 @@
 - 1 - сдана работа с неработающим и невыполяющим задачу программным кодом.
 
 ### Формат проведения ридинг-семинара и критерии оценивания
-Необходимо разбиться на группы по 2-3 человека, выбрать статью из списка или любую другую (по согласованию с преподавателем) и подготовить доклад с презентацией на 10 минут (+ 5 минут на вопросы). Выступление каждого из членов команды является обязательным. Оценивается понимание содержания статьи, оценка преимуществ и ограничений исследования, умение кратко изложить ключевые моменты статьи, готовность ответить на вопросы.
+Необходимо разбиться на группы по 2-3 человека, выбрать статью из списка или любую другую (по согласованию с преподавателем) и подготовить доклад с презентацией на 10 минут (+ 5 минут на вопросы). Выступление каждого из членов команды является обязательным. Оценивается понимание содержания статьи и понимание механизмов работы используемых методов (и готовность о них рассказать), оценка преимуществ и ограничений исследования, умение кратко изложить ключевые моменты статьи, готовность ответить на вопросы.
 
 ### Критерии оценивания итогового проекта
 Защита финального проекта представляет собой презентацию законченного исследования, включающего этап предобработки данных, анализа (текстовые паттерны, сетевой анализ, тематического моделирование, компьютерное зрение и тд.) и визуализации результатов с их критической интерпретацией. Формат сдачи: тетрадка с кодом и текстовыми комментариями. В случае неявки на защиту за проект выставляется 0 баллов. В случае неудачной защиты оценка за проект может быть снижена по усмотрению преподавателя. За что можно набрать баллы (max 10): 
@@ -60,33 +60,38 @@
 | Не менее двух обоснованных визуализаций и комментарии к ним | 2 балла |
 | Публикация результатов в формате веб-приложения | 2 балла |
 
+### Дополнительная литература
+- [Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. — Красноярск: Сиб. федер. ун-­т, 2023. — 272 с.](https://www.hist.msu.ru/upload/iblock/fd1/i-494468.pdf)
+- [Страница цифрового (и не только) филолога Б. Орехова. ](https://nevmenandr.github.io/portfolio/publications/) [И ещё одна.](https://nevmenandr.github.io/#DH) [Телеграм-канал.] (https://t.me/schonenrede)
+- [(Цифровой) философ О.В. Алиева об античности на языке R](https://t.me/rantiquity)
+- [He X., Lashkari A.H., et al. Authorship Attribution Methods, Challenges, and Future Research Directions: A Comprehensive Survey // Information](https://www.mdpi.com/2078-2489/15/3/131) - обзор методов атрибуции текстов
+- [Anna Shadrova. Topic models do not model topics: epistemological remarks and steps towards best practices // Journal of Data Mining and Digital Humanities](https://jdmdh.episciences.org/8608/pdf) - статья про ограничения метода тематического моделирования
+- [Страница исследователя Мэтью Джокерса](https://www.matthewjockers.net/2015/02/02/syuzhet/) - пост про применение метода анализа эмоциональной тональности для типологии нарративной структуры текстов
+- [Примеры количественных исследований живописи](https://colourlex.com/project/computational-analysis-of-paintings/)
 
+### Грузди — это хорошо, но лучше радозди (развлекательное)
+- [Журнал по DH на русском языке "Системный Блокъ"](https://sysblok.ru)
+- [Развлекательные материалы](https://datasittersclub.github.io/tldr/books/tldr2/)
 
-
+### Корпуса текстов и другие датасеты для количественных исследований
+- [Многоязычный корпус драмы DraCor](​​https://dracor.org/)
+- [Репозиторий открытых даных по русской литературе и фольклору](https://dataverse.pushdom.ru/dataverse/openlit)
+- [Роспись содержания советских толстых журналов, 1955—1990 (Новый Мир, Октябрь, Наш Современник, Звезда, Знамя, Юность)](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2024.6-B016)
+- [Корпус нарративной прозы XIX в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2020.10-C004)
+- [Корпус «русской песни» 1800—1840-х гг.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2019.11-C003)
+- [Корпус русских элегий](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2019.11-C001)
+- [Программы по литературе средней школы 20 в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.9-B006), [статьи](https://sysblok.ru/literary-canon/)
+- [«Тематика фельетонов о Новом Поэте и ее диахронические трансформации»: данные и код для воспроизведения исследования](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2024.4-R006)
+- [Корпус русской прозы для детей и юношества](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2021.4-C001)
+- [Корпус публикаций журнала «Современник» (1847–1866)](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.11-C006)
+- [Replication Data for: How Exactly does Literary Content Depend on Genre? A Case Study of Animals in Children’s Literature](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.10-R005), [статья](https://ceur-ws.org/Vol-3558/paper1346.pdf)
+- [Код и данные для воспроизведения исследования: «Сто лет счастья в детской литературе (1920—2020): сталинский канон и его долгосрочные последствия»](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.8-R004)
+- [Персонажи «Войны и мира» Л. Н. Толстого: вхождения в тексте, прямая речь и семантические роли](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.1-C005)
+- [Данные для воспроизведения исследования: Домашние дела литературных персонажей](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2022.4-R003)
+- [Маршрут путешествия в поэме И. П. Мятлева «Сенсации и замечания госпожи Курдюковой за границею, дан л'этранже»](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi:10.31860/openlit-2023.4-G003)
+- [Фотограммархив](https://sysblok.ru/interviews/svetlana-podrezova-o-kollekcii-audiozapisei-pushkinskogo-doma-i-rabote-s-istochnikami/)
 
 <!---
 [ДЗ1](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw1_2024.md)
 
-| 8  | [Requests](https://github.com/hse-ling-python/seminars/blob/master/html_and_requests/requests_2024.ipynb)               |    | 08.11 | 01.11 | 08.11 |
-| 9  | [Краулеры](https://github.com/hse-ling-python/seminars/blob/master/crawlers/crawlers_2024.ipynb)                        |    | 12.11 | 08.11 | 12.11 |
-
-| 11 | [Базы данных - 1](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_1_2024.ipynb)             | [ДЗ2](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw2_2024.md)                                                                              | 15.11 | 15.11 | 15.11 |
-| 12 | [Базы данных - 2](https://github.com/hse-ling-python/seminars/blob/master/databases/databases_2_2024.ipynb)             |    | 18.11 | 18.11 | 18.11 |
-| 13 | [Flask - 1](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_2024.ipynb)                |    | 26.11 | 25.11 | 26.11 |
-| 14 | [Flask - 2](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/html_css_web_forms_2024.ipynb)   |    | 29.11 | 29.11 | 29.11 |
-| 15 | [Flask - 3](https://github.com/hse-ling-python/seminars/blob/master/flask_applications/flask_db_queries_2024_data/flask_db_queries_2024.ipynb)   | [ДЗ3](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw3_2024.md)                                                 | 03.12 | 02.12 | 03.12 |
-| 16 | [API](https://github.com/hse-ling-python/seminars/blob/master/different_api/API_2024.ipynb)                             |    | 06.12 | 06.12 | 06.12 |
-| 18 | [ООП](https://github.com/hse-ling-python/seminars/blob/master/classes/oop_2024.ipynb)                                   |    | 10.12 | 09.12 | 10.12 |
-| 19 | [Введение в машинное обучение](https://docs.google.com/presentation/d/1TgHJT0YPlbLlhM0SLKfsV2Jtveor-f6uCuphY2nVnTc/edit?usp=sharing) |    | 14.01 | 13.01 | 14.01 |
-| 20 | [Классификация (KNN)](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_kNN_2025.ipynb)                     | [Проекты](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/final_project_guidelines.md) | 21.01 | 20.01 | 21.01 |
-| 21 | [Линейная регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_linreg_2025.ipynb)                   |    | 28.01 | 31.01 | 28.01 |
-| 22 | [Логистическая регрессия](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_logreg_2025.ipynb)              |    | 04.02 | 07.02 | 04.02 |
-| 23 | [Деревья](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_trees_2025.ipynb)                               | [ДЗ4](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw4_2024.md)   | 11.02 | 14.02 | 11.02 |
-| 24 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice_2025.ipynb)                           |    | 25.02 | 21.02 | 18.02 |
-| 25 | [Кластеризация](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_clust_2025.ipynb)                         |    | 28.02 | 28.02 | 25.02 |
-| 26 | [Языковые модели](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_LLM_2025.ipynb)                         | [ДЗ5](https://github.com/hse-ling-python/seminars/blob/master/homework22-23/hw5_2025.md) | 04.03 | 04.03 | 04.03 |
-| 27 | [Практика](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_practice2_2025.ipynb)                          |    | 11.03 | 13.03 | 11.03 |
-| 28 | [Рекомендательные системы](https://github.com/hse-ling-python/seminars/blob/master/ml/ML_RecSys_2025.ipynb)             |    | 14.03 | 14.03 | 14.03 |
-| 29 | Консультация (по проектам / к НЭ)                                                                                       |    | 18.03 | 20.03 | 18.03 |
-| 30 | Консультация (по проектам / к НЭ)                                                                                       |    | 21.03 | 21.03 | 21.03 |
 -->

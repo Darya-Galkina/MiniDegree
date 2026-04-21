@@ -62,16 +62,33 @@
 
 ### Дополнительная литература
 - [Цифровые гуманитарные исследования: монография / А. Б. Антопольский, А. А. Бонч-­Осмоловская, Л. И. Бородкин [и др.]. — Красноярск: Сиб. федер. ун-­т, 2023. — 272 с.](https://www.hist.msu.ru/upload/iblock/fd1/i-494468.pdf)
-- [Страница цифрового (и не только) филолога Б. Орехова. ](https://nevmenandr.github.io/portfolio/publications/) [И ещё одна.](https://nevmenandr.github.io/#DH) [Телеграм-канал.] (https://t.me/schonenrede)
-- [(Цифровой) философ О.В. Алиева об античности на языке R](https://t.me/rantiquity)
+- [Парад цифровых гуманитарных проектов : монография / А. Е. Арефьев, Т. А. Базарова, Е. В. Баранова [и др.] ; отв. ред. А. Ю. Володин ; Сибирский федеральный университет.](https://bik.sfu-kras.ru/elib/view?id=BOOK1-ББК71%2FП+180-445824)
+- [Страница цифрового (и не только) филолога Б. Орехова. ](https://nevmenandr.github.io/portfolio/publications/) [И ещё одна.](https://nevmenandr.github.io/#DH) 
+- [Сайт исследователя интернета Полины Колозариди](https://kolozaridi.ru)
+- [Сайт цифрового филолога Теда Андервуда](https://tedunderwood.com)
 - [He X., Lashkari A.H., et al. Authorship Attribution Methods, Challenges, and Future Research Directions: A Comprehensive Survey // Information](https://www.mdpi.com/2078-2489/15/3/131) - обзор методов атрибуции текстов
 - [Anna Shadrova. Topic models do not model topics: epistemological remarks and steps towards best practices // Journal of Data Mining and Digital Humanities](https://jdmdh.episciences.org/8608/pdf) - статья про ограничения метода тематического моделирования
 - [Страница исследователя Мэтью Джокерса](https://www.matthewjockers.net/2015/02/02/syuzhet/) - пост про применение метода анализа эмоциональной тональности для типологии нарративной структуры текстов
 - [Примеры количественных исследований живописи](https://colourlex.com/project/computational-analysis-of-paintings/)
 
-### Грузди — это хорошо, но лучше радозди (развлекательное)
-- [Журнал по DH на русском языке "Системный Блокъ"](https://sysblok.ru)
-- [Развлекательные материалы](https://datasittersclub.github.io/tldr/books/tldr2/)
+### Грузди — это хорошо, но лучше радозди (полезно-развлекательное)
+- [Журнал "Системный Блокъ"](https://sysblok.ru)
+- [Семинар "Цифровая среда"](https://dhri.ru/projects/sreda/)
+- [Телеграм-канал DH CLOUD (DH-центр СФУ)](https://t.me/dhcloud)
+- [Телеграм-канал Б.В. Орехова] (https://t.me/schonenrede)
+- [(Цифровой) философ О.В. Алиева об античности на языке R - телеграм-канал](https://t.me/rantiquity)
+- [Нескучно о работе с данными](https://datasittersclub.github.io/tldr/books/tldr2/)
+
+### Журналы по DH
+- [Journal of Computational Literary Studies (JCLS)](https://jcls.io/) 
+- [Digital Humanities Quarterly (DHQ)](http://www.digitalhumanities.org/dhq/)
+- [Digital Studies / Le champ numérique](https://www.digitalstudies.org/)
+- [Journal of Cultural Analytics](https://culturalanalytics.org/)
+- [International Journal of Digital Humanities](https://link.springer.com/journal/42803)
+- [Digital Scholarship in the Humanities](https://academic.oup.com/dsh?login=false)
+- [International Journal of Humanities and Arts Computing](https://www.euppublishing.com/loi/ijhac)
+- [Digital Medievalist](https://journal.digitalmedievalist.org/)
+- [Цифровые гуманитарные исследования](https://pushkinskijdom.ru/zhurnal-tsifrovye-issledovaniya/)
 
 ### Корпуса текстов и другие датасеты для количественных исследований
 - [Многоязычный корпус драмы DraCor](​​https://dracor.org/)

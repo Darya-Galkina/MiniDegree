@@ -19,7 +19,7 @@
 |16.05|Ридинг-семинар||||
 |23.05|Векторные семантические модели. Снижение размерности|[Тетрадка и данные.]() ЛР2|[Martina A. Rodda, Marco S. G. Senaldi and Alessandro Lenci Panta rei: Tracking Semantic Change with Distributional Semantics in Ancient Greek](https://journals.openedition.org/ijcol/421)|
 |30.05|Тематическое моделирование|[Тетрадка и данные]()| |
-| 6.06|Сетевой анализ. TEI|[Тетрадка и данные.]() ЛР2| |
+| 6.06|Сетевой анализ. TEI|[Тетрадка и данные.]() ЛР3| |
 ||Подготовка проектов | | |
 |     | Консультация  | | |
 |15.06| Дедлайн сдачи проектов| | |

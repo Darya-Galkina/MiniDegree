@@ -12,12 +12,12 @@
 |---|---|---|---|---|
 |04.04| Введение в Digital Humanities. Как читать статьи?|[Презентация]()| |
 |     | Количественный анализ текста. Морфо-синтаксическая разметка. Визуализация| [Тетрадка и данные](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_1) || [ДЗ1](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw1) - регулярные выражения
-|11.04| Культуромика на "малых" данных. Практика|[ЛР1](https://github.com/Darya-Galkina/MiniDegree/blob/main/seminar_2_culturomics/2_seminar.ipynb)|[Бонч-Осмоловская А. А. Культуромика в национальном корпусе русского языка, к постановке задачи: три века русских дорог](https://trudy.ruslang.ru/ru/archive/2015-3/605-640)| [ДЗ2](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw2) - Google Ngram Viewer|
+|11.04| Культуромика на "малых" данных. Лабораторная работа №1|[ЛР1](https://github.com/Darya-Galkina/MiniDegree/blob/main/seminar_2_culturomics/2_seminar.ipynb)|[Бонч-Осмоловская А. А. Культуромика в национальном корпусе русского языка, к постановке задачи: три века русских дорог](https://trudy.ruslang.ru/ru/archive/2015-3/605-640)| [ДЗ2](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw2) - Google Ngram Viewer|
 |18.04|Культуромика: НКРЯ API|[Тетрадка](https://github.com/Darya-Galkina/MiniDegree/blob/main/seminar_3/3_seminar_culturomics.ipynb)|[Бонч-Осмоловская А.А. Имена времени: эпитеты десятилетий в Национальном корпусе русского языка как проекция культурной памяти](https://steps.ranepa.ru/jour/issue/viewIssue/48/28) - коротко перескажем|[ДЗ3](https://github.com/Darya-Galkina/MiniDegree/blob/main/hw3/hw3.md)|
 |25.04|Стилометрия|[Тетрадка и данные](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_4_stylometry)|[Алиева О. В. "Pseudoplatonica: блеск и нищета стилометрии"](https://philosophy.hse.ru/article/view/22609)|[ДЗ4](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw4)|
 |     |майские праздники: работа над проектами| | |
 |16.05|Ридинг-семинар||||
-|23.05|Векторные семантические модели. Снижение размерности| | |
+|23.05|Векторные семантические модели. Снижение размерности. Лабораторная работа №2|[Martina A. Rodda, Marco S. G. Senaldi and Alessandro Lenci Panta rei: Tracking Semantic Change with Distributional Semantics in Ancient Greek](https://journals.openedition.org/ijcol/421)| |
 |30.05|Тематическое моделирование| | |
 | 6.06|Сетевой анализ. TEI| | |
 ||Подготовка проектов | | |

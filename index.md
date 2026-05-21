@@ -17,7 +17,7 @@
 |25.04|Стилометрия|[Тетрадка и данные](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_4_stylometry)|[Алиева О. В. "Pseudoplatonica: блеск и нищета стилометрии"](https://philosophy.hse.ru/article/view/22609)|[ДЗ4](https://github.com/Darya-Galkina/MiniDegree/tree/main/hw4)|
 |     |майские праздники: работа над проектами| | |
 |16.05|Ридинг-семинар||||
-|23.05|Векторные семантические модели. Снижение размерности|[Тетрадка и данные.]() ЛР2|[Martina A. Rodda, Marco S. G. Senaldi and Alessandro Lenci Panta rei: Tracking Semantic Change with Distributional Semantics in Ancient Greek](https://journals.openedition.org/ijcol/421)|
+|23.05|Векторные семантические модели. Снижение размерности|[Тетрадка и данные.](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_6_dist_sem) ЛР2|[Martina A. Rodda, Marco S. G. Senaldi and Alessandro Lenci Panta rei: Tracking Semantic Change with Distributional Semantics in Ancient Greek](https://journals.openedition.org/ijcol/421)|
 |30.05|Тематическое моделирование|[Тетрадка и данные]()| |
 | 6.06|Сетевой анализ. TEI|[Тетрадка и данные.]() ЛР3| |
 ||Подготовка проектов | | |

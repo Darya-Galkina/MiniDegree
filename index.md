@@ -78,7 +78,7 @@
 - [Семинар "Цифровая среда"](https://dhri.ru/projects/sreda/) - есть записи
 - [Телеграм-канал DH-центра СФУ](https://t.me/DHRIsfu)
 - [Телеграм-канал DH CLOUD](https://t.me/dhcloud)
-- [Телеграм-канал Б.В. Орехова] (https://t.me/schonenrede)
+- [Телеграм-канал Б.В. Орехова](https://t.me/schonenrede)
 - [(Цифровой) философ О.В. Алиева об античности на языке R - телеграм-канал](https://t.me/rantiquity)
 - [Нескучно о работе с данными](https://datasittersclub.github.io/tldr/books/tldr2/)
 

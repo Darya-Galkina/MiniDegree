@@ -18,7 +18,7 @@
 |     |майские праздники: работа над проектами| | |
 |16.05|Ридинг-семинар||||
 |23.05|Векторные семантические модели. Снижение размерности|[Тетрадка и данные.](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_6_dist_sem) ЛР2|[Martina A. Rodda, Marco S. G. Senaldi and Alessandro Lenci Panta rei: Tracking Semantic Change with Distributional Semantics in Ancient Greek](https://journals.openedition.org/ijcol/421)|
-|30.05|Тематическое моделирование|[Тетрадка и данные]()| |
+|30.05|Тематическое моделирование|[Тетрадка и данные](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_7_topic_modeling)| |
 | 6.06|Сетевой анализ. TEI|[Тетрадка и данные.]() ЛР3| |
 ||Подготовка проектов | | |
 |     | Консультация  | | |

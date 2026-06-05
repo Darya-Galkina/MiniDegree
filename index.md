@@ -19,7 +19,7 @@
 |16.05|Ридинг-семинар||||
 |23.05|Векторные семантические модели. Снижение размерности|[Тетрадка и данные.](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_6_dist_sem) ЛР2|[Martina A. Rodda, Marco S. G. Senaldi and Alessandro Lenci Panta rei: Tracking Semantic Change with Distributional Semantics in Ancient Greek](https://journals.openedition.org/ijcol/421)|
 |30.05|Тематическое моделирование|[Тетрадка и данные](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_7_topic_modeling)  ЛР3| |
-| 6.06|Сетевой анализ. TEI|[Тетрадка и данные.]()|[Fischer, F., Skorinkin, D. (2021). Social Network Analysis in Russian Literary Studies.](https://link.springer.com/chapter/10.1007/978-3-030-42855-6_29)|
+| 6.06|Сетевой анализ. TEI|[Тетрадка и данные.](https://github.com/Darya-Galkina/MiniDegree/tree/main/seminar_8_networks)|[Fischer, F., Skorinkin, D. (2021). Social Network Analysis in Russian Literary Studies.](https://link.springer.com/chapter/10.1007/978-3-030-42855-6_29)|
 ||Подготовка проектов | | |
 |     | Консультация  | | |
 |15.06| Дедлайн сдачи проектов| | |
